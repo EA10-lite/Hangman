@@ -1,0 +1,22 @@
+@media screen and (max-width:500px){
+	.intro-display, .game-display {
+		position: fixed;
+		width:100%;
+		text-align: center;
+	}
+	.letter{
+		width: 28px;
+		height:25px;
+		font-size: 12px;
+		margin:3px;
+		padding:3px;
+		display: inline-block;
+	}
+	.guess {
+		width: 20px;
+		height:15px;
+		font-size: 12px;
+		padding:3px;
+		display: inline-block;
+	}
+}
